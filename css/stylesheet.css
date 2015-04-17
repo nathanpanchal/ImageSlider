@@ -1,0 +1,33 @@
+.container {
+	width: 850px;
+	margin: 0 auto;
+}
+
+.slider {
+	height:	500px;
+	width: 850px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+.slider > img {
+	height: 500px;
+	width: 850px;
+	float: left;
+	display: none;
+}
+
+a {
+	padding: 5px 10px;
+	background-color: red;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+a.left {
+	float: left;
+}
+
+a.right {
+	float: right;
+}

@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"slide",
+				"sliderInit"
+			],
+			[
+				"sli",
+				"sliderInit"
+			],
+			[
+				"slider",
+				"sliderNext"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"page-content-overlay"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mat",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"footer",
+				"footer-li"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"w",
+				"weight_lifted"
+			],
+			[
+				"weight",
+				"weight_lifted"
+			],
+			[
+				"re",
+				"remaining"
+			],
+			[
+				"plates",
+				"plates_needed"
+			],
+			[
+				"plat",
+				"plates_needed"
+			],
+			[
+				"num_",
+				"num_twohalf"
+			],
+			[
+				"nu",
+				"num_five"
+			],
+			[
+				"num",
+				"num_ten"
+			],
+			[
+				"n",
+				"num_twentyfive"
+			],
+			[
+				"si",
+				"sixety_percent"
+			],
+			[
+				"f",
+				"num_five"
+			],
+			[
+				"Num",
+				"num_fourtyfive"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"cars",
+				"cars_not_driven"
+			],
+			[
+				"live",
+				"lives"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"do",
+				"do_not"
+			],
+			[
+				"wei",
+				"my_weight"
+			],
+			[
+				"he",
+				"my_height"
+			],
+			[
+				"c",
+				"compute_deriv"
+			],
+			[
+				"p",
+				"poly"
+			],
+			[
+				"e",
+				"evaluate_poly"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"b",
+				"backslash_cat"
+			],
+			[
+				"tabb",
+				"tabby_cat"
+			],
+			[
+				"fo",
+				"formatter"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"nav",
+				"nav-a"
+			],
+			[
+				"monthl",
+				"monthly_payment"
+			],
+			[
+				"mon",
+				"monthly_payment"
+			],
+			[
+				"mo",
+				"monthly_payment"
+			],
+			[
+				"l",
+				"lower_bound"
+			],
+			[
+				"annual",
+				"annual_rate"
+			],
+			[
+				"ann",
+				"annual_rate"
+			],
+			[
+				"an",
+				"annual_rate"
+			],
+			[
+				"m",
+				"monthly_payment"
+			],
+			[
+				"i",
+				"interest"
+			],
+			[
+				"to",
+				"total_payment"
+			],
+			[
+				"r",
+				"remaining_balance"
+			],
+			[
+				"intere",
+				"interest_paid"
+			],
+			[
+				"min",
+				"min_payment"
+			],
+			[
+				"a",
+				"annual_rate"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/slider.js",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/TEST_CODE/expiriments/css_expirements/image-slider/js/javascript.js",
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/nathanpanchal.sublime-project",
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/css/stylesheet.css",
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/index.html",
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/.gitignore",
+		"/Users/nathanpanchal/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/nathanpanchal/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/resume.html",
+		"/Volumes/TEST_CODE/resume/resume.sublime-project",
+		"/Volumes/TEST_CODE/resume/resume.html",
+		"/Volumes/TEST_CODE/resume/css/stylesheet.css",
+		"/Volumes/TEST_CODE/resume/css/._bootstrap-theme.css",
+		"/Volumes/TEST_CODE/learn_ruby/ex15.rb",
+		"/Volumes/TEST_CODE/learn_ruby/ex13.rb",
+		"/Volumes/TEST_CODE/resume/sample_resume.html",
+		"/Volumes/TEST_CODE/sample_resume/css/example_stylesheet.css",
+		"/Volumes/TEST_CODE/resume/css/bootstrap.css",
+		"/Volumes/TEST_CODE/resume/css/stylesheet",
+		"/Volumes/TEST_CODE/resume/css/style.min.css",
+		"/Users/nathanpanchal/repos/projects/workout_weights.rb",
+		"/Users/nathanpanchal/repos/projects/plates_re3.rb",
+		"/Volumes/TEST_CODE/weight_percents.rb",
+		"/Volumes/TEST_CODE/plates_re2.rb",
+		"/Users/nathanpanchal/repos/projects/plates.py",
+		"/Volumes/TEST_CODE/plates.rb",
+		"/Volumes/TEST_CODE/plates_while.py",
+		"/Volumes/TEST_CODE/plates.py",
+		"/Volumes/TEST_CODE/ex13.py",
+		"/Volumes/512/untitled.py",
+		"/Users/nathanpanchal/repos/course_work/test_code/palindrome.py",
+		"/Volumes/512/resume/resume-resume.html",
+		"/Volumes/512/resume/font-awesome.min.css",
+		"/Volumes/512/resume/resume-aboutme.html",
+		"/Volumes/512/resume/resume-skills.html",
+		"/Volumes/512/resume/resume-timeline.html",
+		"/Volumes/512/resume/resume.html",
+		"/Volumes/512/resume/resume copy.html",
+		"/Volumes/512/resume/resume copy 2.html",
+		"/Volumes/UNTITLED/navbar/stylesheet.css",
+		"/Volumes/UNTITLED/navbar/resume.html",
+		"/Users/nathanpanchal/repos/templates/navbar_template_stylesheet.css",
+		"/Users/nathanpanchal/Desktop/untitled2.py",
+		"/Users/nathanpanchal/Documents/repositorty/prime_test.py",
+		"/Users/nathanpanchal/Documents/repositorty/6.00/ps01a.py",
+		"/Users/nathanpanchal/Documents/repositorty/6.00_introduction_to_computer_science_and_programming/ps00.py",
+		"/Users/nathanpanchal/Documents/ps00.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sliderNext",
+			"sliderInit",
+			" {",
+			"  \n",
+			"sliderInt",
+			"ignore",
+			"folder",
+			"gets",
+			"text-center-to-left",
+			"text-left",
+			"middle",
+			"resume-middle",
+			"resume-title",
+			"visible-xs",
+			"resume-left",
+			"row",
+			"uppercase",
+			"row",
+			"weights",
+			"start_balance",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"imperial_plates"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/slider.js",
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 505.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"css/._bootstrap-theme.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
